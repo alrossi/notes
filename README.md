@@ -1,0 +1,2 @@
+# notes
+troubleshooting, installation, etc.
